@@ -1,4 +1,4 @@
-# 🧠Mental-Health-Companion-Chatbot
+# 🧠Mental_Health_Companion_Chatbot
 
 ## 📌Project Overview
 This project is a Mental Health Chatbot built using Natural Language Processing (NLP) and Machine Learning (ML) techniques. The chatbot is designed to provide supportive, empathetic, and informative responses to users by understanding their text inputs.
