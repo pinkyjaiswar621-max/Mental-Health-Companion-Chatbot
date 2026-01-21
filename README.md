@@ -42,10 +42,7 @@ This chatbot is created for educational purposes only. It is not a replacement f
 
 ## 👤 Author
 Pinky Jaswar
-
-## 📄 License
-This project is intended for learning and academic use.
 MBA (HR & Finance) | NLP & Analytics Enthusiast
 
-#📄 License
+## 📄 License
 This project is intended for learning and academic use.
